@@ -1,0 +1,71 @@
+{
+    "title_provisional": "THE I: A Journey Into the One Who Experiences",
+    "core_thesis": "The life is evidence; the I is the subject. The reader is the ultimate destination.",
+    "methodology": {
+        "voices": [
+            "The Experiencer",
+            "The Observer",
+            "The Investigator"
+        ],
+        "rules": [
+            "Never pretend to know an answer because it sounds beautiful.",
+            "Use science where it exists.",
+            "Show competing philosophical interpretations.",
+            "Distinguish belief from knowledge.",
+            "Say 'I don't know' when we don't know.",
+            "Case studies (personal life) must serve the inquiry, not the ego."
+        ]
+    },
+    "structure": [
+        {
+            "Part": "I",
+            "Title": "BEFORE I",
+            "Chapters": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Part": "II",
+            "Title": "THE I BEGINS TO SEE",
+            "Chapters": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "Part": "III",
+            "Title": "THE I MEETS THE WORLD",
+            "Chapters": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "Part": "IV",
+            "Title": "THE I TURNS UPON ITSELF",
+            "Chapters": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "Part": "V",
+            "Title": "BEYOND THE I",
+            "Chapters": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        }
+    ]
+}
