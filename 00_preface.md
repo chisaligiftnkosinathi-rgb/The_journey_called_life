@@ -66,8 +66,10 @@ This book is an attempt to follow that investigation.
 I do not want to pretend that every question has an answer.
 Where science has something to teach us, we should listen to science.
 Where philosophy offers competing possibilities, we should examine them.
-Where spirituality offers interpretations of existence, we should distinguish faith from knowledge.
-Where evidence ends, we should have the courage to say:
+Where traditions offer interpretations of existence, we should distinguish belief from knowledge.
+We will distinguish what evidence has established from what we infer.
+We will examine competing interpretations without mistaking them for facts.
+And where evidence ends, we will have the courage to say:
 We do not know.
 
 That uncertainty is not a failure of the investigation.
@@ -94,8 +96,8 @@ And that is precisely why the question is worth asking.
 
 There is another question beneath it.
 If the I is not simply born complete, then how does it become what it becomes?
-Perhaps we begin like seeds.
-We arrive in conditions we did not choose.
+None of us chose our beginning.
+We arrived into conditions already running:
 Family.
 Language.
 Culture.
@@ -104,10 +106,9 @@ Biology.
 History.
 Circumstance.
 
-We grow inside a soil that existed before us.
-At first, the soil shapes us without our knowledge.
+At first, these conditions shape us without our knowledge.
 Then, slowly, something changes.
-The growing being begins to notice the soil.
+The growing being begins to notice what surrounds it.
 It begins to ask why it thinks the way it thinks.
 Why it wants what it wants.
 Why it fears what it fears.
@@ -116,12 +117,12 @@ Why it believes what it believes.
 And eventually it may discover something extraordinary:
 I can participate in my own becoming.
 
-Perhaps this is one of the great transitions of consciousness.
+Perhaps this is one of the great transitions of consciousness:
 To move from merely being shaped to becoming aware of being shaped.
-From being carried by life to asking where life is carrying us.
-From being a seed in the soil to becoming, in some small way, a gardener.
+From being carried by life to asking where life is carrying us—
+and whether we can participate in what we become.
 
-But even the gardener does not control the entire garden.
+Yet even that participation occurs within limits.
 We inherit conditions we did not choose.
 We encounter events we did not plan.
 Other people influence us.
@@ -137,12 +138,10 @@ When I imagine a future and that imagined future changes what I do today, how ca
 And if I can observe my own thoughts, am I the thoughts—or am I the one observing them?
 
 These questions lead us deeper.
-Eventually, the investigation reaches purpose.
-Why does an I ask what it is here for?
-Is purpose something discovered or something created?
-Does life have a function beyond survival?
-Is our desire for meaning merely something evolution produced?
-Or is the desire itself evidence of something deeper?
+Eventually, the inquiry must confront meaning:
+Why does an experiencing being ask what its life is for?
+Does a conscious life simply endure, or can it participate in what its presence means?
+Is our desire for meaning merely something biology produced, or does it point to something deeper about what it is to be here?
 
 I do not intend to answer these questions on behalf of the reader.
 I want to investigate them alongside the reader.
