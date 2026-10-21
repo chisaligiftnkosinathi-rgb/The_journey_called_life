@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2572" viewBox="0 0 896 1280" role="img" aria-labelledby="title desc">
+  <title id="title">THE I — back cover concept</title>
+  <desc id="desc">A quiet, dark indigo back cover with book description, a restrained landscape image, and room for a future barcode.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2=".9" y2="1">
+      <stop offset="0" stop-color="#171b29"/>
+      <stop offset=".58" stop-color="#202433"/>
+      <stop offset="1" stop-color="#10131c"/>
+    </linearGradient>
+    <linearGradient id="landscapeFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#171b29" stop-opacity=".05"/>
+      <stop offset=".38" stop-color="#171b29" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#10131c" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="sideFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#171b29" stop-opacity="1"/>
+      <stop offset=".48" stop-color="#171b29" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#171b29" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+  <rect width="896" height="1280" fill="url(#field)"/>
+  <image href="book_cover_test.jpg" x="0" y="969" width="896" height="311" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="969" width="896" height="311" fill="#171b29" opacity=".68"/>
+  <path d="M0 1182h896M55 1218l88-16m57 18l60-13m104 18l91-17m62 12l77-17m92 15l60-12" fill="none" stroke="#c2a078" stroke-width="1" opacity=".3"/>
+  <rect x="28" y="28" width="840" height="1224" fill="none" stroke="#c5a16d" stroke-opacity=".5" stroke-width="1"/>
+  <text x="72" y="105" fill="#d4b27f" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3.5">THE QUESTION BENEATH EVERY LIFE</text>
+  <path d="M72 132h120" stroke="#c49b65" stroke-width="1"/>
+  <text x="72" y="198" fill="#f2ede4" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing=".15">
+    <tspan x="72" dy="0">Before we can ask what a life</tspan>
+    <tspan x="72" dy="43">means, we must ask who is</tspan>
+    <tspan x="72" dy="43">experiencing it.</tspan>
+  </text>
+  <text x="72" y="365" fill="#d9d6d0" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing=".18">
+    <tspan x="72" dy="0">We arrive in the middle of a story already in motion—</tspan>
+    <tspan x="72" dy="29">shaped by biology, family, language, history and chance.</tspan>
+    <tspan x="72" dy="29">Then, somehow, the living body begins to see, remember,</tspan>
+    <tspan x="72" dy="29">choose and ask: Who am I?</tspan>
+  </text>
+  <text x="72" y="535" fill="#d9d6d0" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing=".18">
+    <tspan x="72" dy="0">In this searching journey, Gift Nkosinathi Chisali follows</tspan>
+    <tspan x="72" dy="29">the I from its unremembered beginning to its encounter</tspan>
+    <tspan x="72" dy="29">with other minds, its own shifting nature, the limits of</tspan>
+    <tspan x="72" dy="29">knowledge, and the edge of mortality.</tspan>
+  </text>
+  <text x="72" y="701" fill="#d9d6d0" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing=".18">
+    <tspan x="72" dy="0">Drawing on science and philosophy while keeping belief</tspan>
+    <tspan x="72" dy="29">distinct from what can be known, the book resists easy</tspan>
+    <tspan x="72" dy="29">certainty. It asks what we inherit, what we can tend, and</tspan>
+    <tspan x="72" dy="29">what remains beyond the reach of the observer.</tspan>
+  </text>
+  <text x="72" y="885" fill="#e6d1ad" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic">The life is evidence. The I is the subject.</text>
+  <path d="M72 922h176" stroke="#c49b65" stroke-width="1" opacity=".8"/>
+  <text x="72" y="1125" fill="#f1eadf" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing=".8">GIFT NKOSINATHI CHISALI</text>
+  <text x="72" y="1153" fill="#d3c4ad" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="2">THE I</text>
+  <rect x="650" y="1110" width="170" height="92" rx="2" fill="#f2eee5" opacity=".95"/>
+  <text x="735" y="1160" text-anchor="middle" fill="#42434a" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.2">ISBN / BARCODE</text>
+  <text x="735" y="1177" text-anchor="middle" fill="#77777a" font-family="Arial, Helvetica, sans-serif" font-size="7" letter-spacing=".7">RESERVED FOR FINAL EDITION</text>
+</svg>

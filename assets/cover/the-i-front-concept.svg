@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2572" viewBox="0 0 896 1280" role="img" aria-labelledby="title desc">
+  <title id="title">THE I — photographic front cover concept</title>
+  <desc id="desc">A realistic South African veld seen from inside a weathered doorway, with an empty wooden chair in the threshold.</desc>
+  <defs>
+    <linearGradient id="typeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10131b" stop-opacity=".62"/>
+      <stop offset=".72" stop-color="#10131b" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#10131b" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="typeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10131b" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#10131b" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#10131b" stop-opacity=".72"/>
+    </linearGradient>
+    <filter id="photoTone" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feComponentTransfer>
+        <feFuncR type="gamma" amplitude=".82" exponent=".9" offset="0"/>
+        <feFuncG type="gamma" amplitude=".82" exponent=".9" offset="0"/>
+        <feFuncB type="gamma" amplitude=".84" exponent=".9" offset="0"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <image href="book_cover_test.jpg" x="0" y="0" width="896" height="1280" preserveAspectRatio="xMidYMid slice" filter="url(#photoTone)"/>
+  <rect width="896" height="470" fill="url(#typeTop)"/>
+  <rect y="900" width="896" height="380" fill="url(#typeBottom)"/>
+  <text x="448" y="104" text-anchor="middle" fill="#e5d9c6" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="4.1">A PHILOSOPHICAL INQUIRY</text>
+  <path d="M382 137h132" stroke="#c3a273" stroke-width="1" opacity=".85"/>
+  <text x="448" y="274" text-anchor="middle" fill="#f3eee5" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="400" letter-spacing="7">THE I</text>
+  <text x="448" y="315" text-anchor="middle" fill="#eee5d8" font-family="Arial, Helvetica, sans-serif" font-size="11.5" letter-spacing="1.8">A JOURNEY INTO THE ONE WHO EXPERIENCES</text>
+  <text x="448" y="1194" text-anchor="middle" fill="#f3eee5" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing=".7">Gift Nkosinathi Chisali</text>
+  <rect x="18" y="18" width="860" height="1244" fill="none" stroke="#e5d4b7" stroke-opacity=".36" stroke-width=".8"/>
+</svg>
